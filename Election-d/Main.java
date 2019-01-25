@@ -75,10 +75,5 @@ public class Main{
             }
 
         System.out.printf( (b == 0) ? "President: Mordy Golding won " : (b == 1) ? "Vice President: Dona Sarkar won " : (b == 2) ? "Secretary: Jason Howard " : "Treasurer Walt Ritscher won ");
-
-        System.out.println("Mordy Golding received 70 votes.\nShira Gotshalk received 61 votes.\nStephanie Evans received 54 votes.\nRay Villalobos received 57 votes.");
-        System.out.println("Dona Sarkar received 66 votes.\nTyler Ahn received 64 votes.\nJoe Camp received 57 votes.\nBrandon LeBlanc received 55 votes.");
-        System.out.println("Jason Howard received 66 votes.\nNikki Rubino received 64 votes.\nPeggy Fisher received 53 votes.\nNeil Edde received 59 votes.");
-        System.out.println("David Gassner received 60 votes.\nSharon Bennett received 50 votes.\nWalt Ritscher received 67 votes.\nHeather Hurley received 65 votes.");
     }
 }
