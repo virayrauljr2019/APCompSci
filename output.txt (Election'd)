@@ -1,7 +1,0 @@
-/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53757:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/raulvirayjr/IdeaProjects/untitled4/out/production/untitled4 Main
-President Winner of position 1
-Vice President Winner of position 1
-Secretary Winner of position 1
-Treasurer Winner of position 3
-
-Process finished with exit code 0
