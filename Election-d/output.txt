@@ -1,0 +1,3 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62889:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/raulvirayjr/IdeaProjects/untitled4/out/production/untitled4 Main
+President: Mordy Golding won Vice President: Dona Sarkar won Secretary: Jason Howard Treasurer Walt Ritscher won 
+Process finished with exit code 0
